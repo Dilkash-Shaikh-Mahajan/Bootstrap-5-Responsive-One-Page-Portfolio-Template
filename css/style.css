@@ -1,0 +1,23 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto Mono', monospace;
+	scroll-behavior: smooth;
+}
+
+.carousel-item img
+{
+	width: 100%;
+	height: 70vh;
+}
+.carousel-caption 
+{
+    bottom: 3.25rem !important;
+ }
+ .about .img-fluid {
+    max-width: 100%;
+    height: 500px !important;
+}
+
